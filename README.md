@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Habilidades principales / obtenidas y en curso ..
+## 🚀 Habilidades principales
 
 ### 🔹 Lenguajes
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
